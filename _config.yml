@@ -1,11 +1,26 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Eric Frazer # your name (or website title) here
+logo: "/images/EPortfolioImage.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Computer Science major at the University of Montana.<br>
+  <br>
+  I am from Salem, Oregon and moved to Missoula, MT in 2020<br>
+  to persue a degree in Computer Science.<br>
+  <br>
+  Email: EricFrazer02@gmail.com<br>
+  Phone: (503)-931-7632<br>
+  <br>
+  Programming Languages:<br>
+  -Java<br>
+  -Python<br>
+  -HTML<br>
+  Familiar with:<br>
+  -Github<br>
+  -Git<br>
+  -Atom<br>
+  -Visual Studio Code<br>
+  <br>
+  Resume:<br>
+  [Resume Pdf](images/Resume - Eric Frazer (Updated 09_30_23).pdf)
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
