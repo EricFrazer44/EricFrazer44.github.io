@@ -19,8 +19,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   -Atom<br>
   -Visual Studio Code<br>
   <br>
-  Resume:<br>
-  [Resume Pdf](images/Resume - Eric Frazer (Updated 09_30_23).pdf)
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
