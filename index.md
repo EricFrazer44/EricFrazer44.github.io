@@ -12,6 +12,9 @@
 
 ### Blog Application
 ### [Github Repository](https://github.com/EricFrazer44/blog)
+
+### News Application
+### [Github Repository](https://github.com/EricFrazer44/news)
 ---
 
 
