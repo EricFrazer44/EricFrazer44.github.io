@@ -15,6 +15,9 @@
 
 ### News Application
 ### [Github Repository](https://github.com/EricFrazer44/news)
+
+### Budgify App
+###[Github Repository](https://github.com/joelwagner747/budgetapp)
 ---
 
 
